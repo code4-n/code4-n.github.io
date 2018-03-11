@@ -10,6 +10,6 @@ much more to see soon
 
 
 
-##for now## you can play with [google](http://google.com) :)
+**for now you can play with** [google](http://google.com) :)
 
 
